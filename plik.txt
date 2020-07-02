@@ -1,1 +1,1 @@
-Linia utworzona w gałęzi MASTER.
+Linia zmieniona w gałęzi BRENCH01.
